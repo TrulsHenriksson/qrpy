@@ -2,6 +2,8 @@
 
 Python package and reference implementation of the ISO/IEC 18004:2015 Standard for QR codes, with a simple but convenient CLI for showing, saving and copying generated QR codes.
 
+![Sample QR code](sample_qr_code.png)
+
 # Purpose
 
 This is first and foremost a reference implementation, meaning I wanted the code to be readable and well-documented, without lots of magic numbers and tables copied straight from the specification. For those wanting to implement their own QR code generator, or extending one to suit their needs (custom colors, styles, inset images, etc.) this should be a good basis.
